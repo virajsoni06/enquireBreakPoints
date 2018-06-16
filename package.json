@@ -1,0 +1,28 @@
+{
+  "name": "enquirebreakpoints",
+  "version": "1.0.0",
+  "description": "Utility to add classes to body based on viewport. Built on top of Enquire.js",
+  "main": "enquireBreakPoints.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virajsoni06/enquireBreakPoints.git"
+  },
+  "keywords": [
+    "enquirejs",
+    "media",
+    "queries",
+    "breakpoints"
+  ],
+  "author": "Viraj Soni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/virajsoni06/enquireBreakPoints/issues"
+  },
+  "homepage": "https://github.com/virajsoni06/enquireBreakPoints#readme",
+  "dependencies": {
+    "enquire.js": "^2.1.6"
+  }
+}
