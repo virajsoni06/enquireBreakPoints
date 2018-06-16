@@ -1,6 +1,6 @@
 {
   "name": "enquirebreakpoints",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility to add classes to body based on viewport. Built on top of Enquire.js",
   "main": "enquireBreakPoints.js",
   "scripts": {
