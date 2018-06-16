@@ -6,7 +6,7 @@ Adds a class to document body at user defined breakpoints. Also provides a helpe
 
 ## Browser Compatibility
 
-- IE9+ (requires Promise polyfill)
+- IE9+
 - Edge *
 - Firefox 29+
 - Safari 8+
